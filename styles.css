@@ -1,0 +1,26 @@
+h1{
+    font: sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color:crimson;
+}
+ul{
+    list-style-type: square;
+ }
+h3{
+    font-size: 12px;
+    color:aliceblue ;
+    background-color:#3b034d ;
+}
+h1
+{
+    font: Tahoma;
+    font-size: 36px;
+    color:cornflowerblue;
+}
+.myDiv
+{
+    background-color:darkcyan;
+        
+
+}
